@@ -3,5 +3,5 @@
 This is the code implementation for paper Learning Multilingual Topics from News Articles with Extremely Limited Information.
 
 ## To-Do:
-- [ ] Code
+- [x] Code
 - [ ] Release our proposed data (NewsMKP)

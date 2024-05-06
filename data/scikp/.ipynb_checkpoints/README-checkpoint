@@ -1,0 +1,10 @@
+kp20_v1
+    input: title
+    output: kephrase
+kp20_v2
+    input: title
+    output: abstract </s> kephrase
+    
+    
+eval data:
+kp20k inspec krapivin nus semeval
