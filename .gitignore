@@ -1,3 +1,5 @@
 *.ipynb
 __pycache__
 newsMKP/
+.ipynb_checkpoints/
+*.tar.gz
